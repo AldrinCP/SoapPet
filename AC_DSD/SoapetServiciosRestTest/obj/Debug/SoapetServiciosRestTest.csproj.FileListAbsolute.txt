@@ -1,0 +1,12 @@
+E:\AC_DSD\SoapetServiciosREST\SoapetServiciosRestTest\bin\Debug\SoapetServiciosRestTest.dll
+E:\AC_DSD\SoapetServiciosREST\SoapetServiciosRestTest\bin\Debug\SoapetServiciosRestTest.pdb
+E:\AC_DSD\SoapetServiciosREST\SoapetServiciosRestTest\obj\Debug\SoapetServiciosRestTest.dll
+E:\AC_DSD\SoapetServiciosREST\SoapetServiciosRestTest\obj\Debug\SoapetServiciosRestTest.pdb
+D:\AC_DSD\SoapetServiciosREST\SoapetServiciosRestTest\bin\Debug\SoapetServiciosRestTest.dll
+D:\AC_DSD\SoapetServiciosREST\SoapetServiciosRestTest\bin\Debug\SoapetServiciosRestTest.pdb
+D:\AC_DSD\SoapetServiciosREST\SoapetServiciosRestTest\obj\Debug\SoapetServiciosRestTest.dll
+D:\AC_DSD\SoapetServiciosREST\SoapetServiciosRestTest\obj\Debug\SoapetServiciosRestTest.pdb
+D:\AC_DSD\SoapetServiciosRestTest\bin\Debug\SoapetServiciosRestTest.dll
+D:\AC_DSD\SoapetServiciosRestTest\bin\Debug\SoapetServiciosRestTest.pdb
+D:\AC_DSD\SoapetServiciosRestTest\obj\Debug\SoapetServiciosRestTest.dll
+D:\AC_DSD\SoapetServiciosRestTest\obj\Debug\SoapetServiciosRestTest.pdb
